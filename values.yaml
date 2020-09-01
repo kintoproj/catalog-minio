@@ -174,7 +174,7 @@ secretKey:
 ## Disable MinIO Web UI
 ## ref: https://github.com/minio/minio/tree/master/docs/config/#browser
 ##
-disableWebUI: false
+disableWebUI: true
 
 ## Define custom environment variables to pass to the image here
 ##
